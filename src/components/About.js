@@ -10,9 +10,8 @@ export default function About() {
                 <br className="hidden lg:inline-block" />I love solving problems. 
               </h1>
               <p className="mb-8 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-                Laborum, voluptas natus?
+                I am a self-taught tech enthusiast who loves learning new things! Currently focused on building applications that help clients reach their business goals. <br/>
+                In my freetime, I love to play basketball, video games go on hikes (Lucky I live in the PNW) and spend time with my family. Oh and I LOVE CODE. 
               </p>
               <div className="flex justify-center">
                 <a
